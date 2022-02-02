@@ -1,0 +1,2 @@
+# nextjsFirebase
+Created with CodeSandbox
